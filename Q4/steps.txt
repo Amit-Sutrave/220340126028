@@ -1,0 +1,11 @@
+1.create a python file for square of number
+
+2.then create Dockerfile and build using command ==> sudo docker build -d <image name and path>
+
+3.then check the container running states from command ==>sudo docker ps
+
+4.the run the imgae from command ==>sudo docker rum -itd -- name create_name images_name sh
+
+5.then we enter in container and run the python code <python3 python_file_name>
+
+6.and see the  outupt
